@@ -1,6 +1,6 @@
-# EC414_PokerAI
+# EC414_BlackjackAI
 
-AI Poker player model using Q learning algorithm, Fall 2024
+AI Blackjack player model using Q learning algorithm, Fall 2024
 
 ## Overview
 
